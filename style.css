@@ -55,6 +55,7 @@ nav .ri-menu-line {
     height: 85%;
     justify-content: space-between;
     padding: 60px 0px;
+    width:  81%;
 }
 
 .sec-1-first-div-main-div span {
@@ -64,12 +65,12 @@ nav .ri-menu-line {
 }
 
 .sec-1-first-div-main-div h2 {
-    font-size: 60px;
-    font-weight: 800;
-    width: 50%;
-    line-height: 80px;
+    width: 63%;
     padding: 10px 0px;
+    font-weight: 700;
     color: #222222;
+    font-size: 80px;
+    line-height: 1.2;
 }
 
 .sec-1-first-div-main-div button:nth-child(1) {
