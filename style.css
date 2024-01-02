@@ -32,11 +32,11 @@ nav .ri-menu-line{
 .sec-1{
     display: flex;
 }
-.sec-1-first-div{
+.sec-1-first-div {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 62.5em;
+    height: 43em;
     background-color: #F8F8F8;
     width: 50%;
     justify-content: end;
