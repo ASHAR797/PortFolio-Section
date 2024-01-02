@@ -1,0 +1,39 @@
+@media (max-width:600px) {
+    .sec-1 {
+        flex-direction: column;
+    }
+
+    .sec-1-first-div,
+    .sec-1-second-div {
+        width: 100%;
+    }
+    .sec-1-first-div{
+        height: 45.5em;
+        background-color: white;
+    }
+
+    .sec-1-first-div-main-div {
+        display: flex;
+        flex-direction: column;
+        height: 85%;
+        justify-content: space-around;
+        padding: 0px;
+        width: 88%;
+        background: white;
+        align-items: center;
+        text-align: center;
+    }
+
+    .sec-1-first-div-main-div h2 {
+        font-size: 60px;
+        font-weight: 800;
+        width: 95%;
+        line-height: 80px;
+        padding: 10px 0px;
+        color: #222222;
+    }
+    .sec-1-second-div img {
+        width: 210px;
+        padding-top: 22px;
+      }
+}
