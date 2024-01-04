@@ -1,7 +1,7 @@
 # PortFolio-Section
 html and css project
 
-### LInk
+### Link
 Publish link : https://ashar797.github.io/PortFolio-Section/
 
 ## Portfolio Section
